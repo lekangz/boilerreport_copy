@@ -18,4 +18,8 @@ public class ArithmeticImpl implements Arithmetic {
 		System.out.println("sljlfjl");
 	}
 
+	
+	public void f2(){
+		
+	}
 }
