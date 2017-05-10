@@ -13,5 +13,9 @@ public class ArithmeticImpl implements Arithmetic {
 		double i=(double)a/(double)b;
 		return i;
 	}
+	
+	public void fl(){
+		System.out.println("sljlfjl");
+	}
 
 }
