@@ -18,10 +18,7 @@ public class ArithmeticImpl implements Arithmetic {
 		System.out.println("sljlfjl");
 	}
 
-	
-	public void f2(){
-		int a=1+2;
-	}
+
 
 	public void f5(){
 		int a=3+2;
