@@ -20,7 +20,8 @@ public class ArithmeticImpl implements Arithmetic {
 
 	
 	public void f2(){
-		
+		int a=1+2;
 	}
+
 
 }
