@@ -23,5 +23,9 @@ public class ArithmeticImpl implements Arithmetic {
 		int a=1+2;
 	}
 
+	public void f3(){
+		int a=3+2;
+	}
+
 
 }
