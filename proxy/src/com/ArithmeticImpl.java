@@ -23,5 +23,8 @@ public class ArithmeticImpl implements Arithmetic {
 		int a=1+2;
 	}
 
+	public void f5(){
+		int a=3+2;
+	}
 
 }
