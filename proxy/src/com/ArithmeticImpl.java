@@ -19,7 +19,7 @@ public class ArithmeticImpl implements Arithmetic {
 	}
 
 	
-	public void f2(){
+	public void f3(){
 		
 	}
 }
