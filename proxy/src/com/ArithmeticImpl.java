@@ -8,7 +8,6 @@ public class ArithmeticImpl implements Arithmetic {
 		return i;
 	}
 
-	aaa
 	@Override
 	public double div(int a, int b) {
 		double i=(double)a/(double)b;
